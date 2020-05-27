@@ -1,4 +1,2 @@
-# python_for_science
-# python_for_science
-# python_for_science
-# python_for_science
+## Python for Science
+Jupyter notebooks illustrating several science topics for educational purposes
